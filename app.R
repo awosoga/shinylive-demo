@@ -6,8 +6,8 @@ library(shinyauthr)
 
 # Define user credentials
 user_base <- data.frame(
-  user = c("test"), 
-  password = c("test"), # plaintext for simplicity; use hashed passwords in production
+  user = c("bbl_drizzy"), 
+  password = c("bbl_drizzy"), # plaintext for simplicity; use hashed passwords in production
   stringsAsFactors = FALSE
 )
 
